@@ -71,8 +71,12 @@ a {
 }
 
 .hero-app {
-  bottom: -39%;
-  left: 17%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  left: 0;
+  right: 0;
+  text-align: center;
 }
 
 
@@ -138,6 +142,7 @@ a {
   background-color: transparent;
   background-image: url(../img/section-4.svg);
   background-repeat: no-repeat;
+  background-size: contain;
   background-position: 0% 0%;
 }
 
