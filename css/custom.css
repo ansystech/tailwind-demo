@@ -42,7 +42,7 @@ a {
   text-indent: -9999px;
   width: 100px;
   height: 82px;
-  background: url(/img/logo.svg);
+  background: url(../img/logo.svg);
   background-size: 100px 82px;
 }
 
@@ -51,20 +51,20 @@ a {
   text-indent: -9999px;
   width: 48px;
   height: 20px;
-  background: url(/img/logo.svg);
+  background: url(../img/logo.svg);
   background-size: 48px 20px;
 }
 
 .greg-icon {
   display: block;
-  background: url(/img/greg-icon.svg) no-repeat;
+  background: url(../img/greg-icon.svg) no-repeat;
   width: 65px;
   height: 105px;
 }
 
 .hero {
   background-color: transparent;
-  background-image: url(/img/hero-bg.svg);
+  background-image: url(../img/hero-bg.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0% 30%;
@@ -79,7 +79,7 @@ a {
 .apple-btn:before {
   display: block;
   content: ' ';
-  background-image: url('../img/apple.svg');
+  background-image: url(../img/apple.svg);
   background-size: 45px 45px;
   height: 45px;
   width: 45px;
@@ -88,7 +88,7 @@ a {
 .apple-btn-sm:before {
   display: block;
   content: ' ';
-  background-image: url('../img/apple.svg');
+  background-image: url(../img/apple.svg);
   background-size: 32px 32px;
   height: 32px;
   width: 32px;
@@ -97,21 +97,21 @@ a {
 
 .section-1 {
   background-color: transparent;
-  background-image: url(/img/section-1.svg);
+  background-image: url(../img/section-1.svg);
   background-repeat: no-repeat;
   background-position: 0% 5%;
 }
 
 .section-2 {
   background-color: transparent;
-  background-image: url(/img/section-2.svg);
+  background-image: url(../img/section-2.svg);
   background-repeat: no-repeat;
   background-position: 100% 0%;
 }
 
 .section-3 {
   background-color: transparent;
-  background-image: url(/img/section-3.svg);
+  background-image: url(../img/section-3.svg);
   background-repeat: no-repeat;
   background-position: 0% 0%;
 }
@@ -136,7 +136,7 @@ a {
 
 .section-4 {
   background-color: transparent;
-  background-image: url(/img/section-4.svg);
+  background-image: url(../img/section-4.svg);
   background-repeat: no-repeat;
   background-position: 0% 0%;
 }
